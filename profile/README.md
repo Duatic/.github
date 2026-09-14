@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://assets.duatic.com/logos/duatic_logo.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://assets.duatic.com/logos/duatic_logo_white.png">
     <img src="https://assets.duatic.com/logos/duatic_logo_black.png" alt="Duatic" width="280">
   </picture>
 </p>
