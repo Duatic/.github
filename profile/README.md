@@ -37,7 +37,8 @@ Two coordinated arms lift up to 30 kg together; the mobile base carries up to 20
 
 Our public repositories cover the ROS 2 tooling, CI/CD infrastructure, and drivers we build
 robots on. Most of what runs our robots' upper-level software is ROS 2 based; see individual
-repositories for specifics.
+repositories for specifics. Code is released under the BSD 3-Clause license unless a
+repository states otherwise.
 
 ---
 
