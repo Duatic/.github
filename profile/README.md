@@ -41,4 +41,4 @@ repositories for specifics.
 
 ---
 
-<p align="center"><sub>Switzerland 🇨🇭 · <a href="mailto:info@duatic.com">info@duatic.com</a></sub></p>
+<p align="center"><sub>Duatic · <a href="mailto:info@duatic.com">info@duatic.com</a></sub></p>
