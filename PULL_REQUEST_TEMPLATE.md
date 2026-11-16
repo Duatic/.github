@@ -6,6 +6,7 @@
 
 <!-- What you actually ran/checked. "See CI" is fine if the checks cover it. -->
 
+- [ ] This PR passed an AI Review
 - [ ] Tests updated, or not applicable
 - [ ] Docs updated, or not applicable
 - [ ] This changes or removes something existing (if so, title needs `!` and means the next release is a major version bump)
